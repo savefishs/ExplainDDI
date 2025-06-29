@@ -20,7 +20,7 @@ pandas
 
 First `cd` into the corresponding directory, i.e., DrugBank , TWOSIDES or Pretrain.
 
-Our data is uploaded on the :
+Our data is uploaded on the [google drive link](https://drive.google.com/file/d/1qH_hmJB3EVFSuuOlALAaekQUqxCFiFwm/view?usp=drive_link)
 
 Once the data is ready, you can run the following scripts to reproduce the results:
 

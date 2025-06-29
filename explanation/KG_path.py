@@ -20,9 +20,8 @@ import torch
 import torch.utils
 from zmq import device
 import warnings
-# from Vmae_model import *
 from mae_model import *
-from InterDDI.DrugBank.model import Combin_Classifier
+from model import Combin_Classifier
 import numpy as np
 import pandas as pd
 import json
